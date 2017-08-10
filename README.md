@@ -1,5 +1,4 @@
 # VMware Identity Manager
-
 Identity Manager is an Identity as a Service (IDaaS) offering, providing application provisioning, self-service catalog, conditional access controls and Single Sign-On (SSO) for SaaS, web, cloud and native mobile applications.
 
 ## Overview
